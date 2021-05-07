@@ -7,7 +7,6 @@
 ✨ **Welcome! I'm a developer who always develops.**
 
 <br />
-<br />
 
 🔨 **Tech Stack**
 
