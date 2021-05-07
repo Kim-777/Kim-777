@@ -3,7 +3,7 @@
 ## 프론트엔드 주니어 김예찬입니다. 
 
 <br/>
-✨ __Welcome!    I'm a developer who always develops.__
+✨ __Welcome! I'm a developer who always develops.__
 <br />
 <br />
 🔨 __Tech Stack__
